@@ -1,0 +1,35 @@
+.Content2 {
+    width: 82%;
+    margin: 20px auto;
+    text-align: center;
+    border-bottom: 2px solid rgba(202, 199, 199, 0.761);
+    font-size: 14px;
+}
+
+.Content2-heading {
+    margin: 20px;
+    font-size: 16pt;
+    font-weight: bold;
+    color: rgb(73, 72, 72);
+
+}
+
+.steps {
+    text-align: left;
+}
+
+.step1 {
+    margin: 20px 0 ;
+}
+
+.orange{
+    color: Orange;
+}
+
+.green {
+    color: rgb(60, 189, 48);
+}
+
+.blue {
+    color: rgb(59, 175, 214);
+}

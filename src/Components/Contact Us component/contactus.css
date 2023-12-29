@@ -1,0 +1,26 @@
+.contact-container {
+    height: 30%;
+    text-align: center;
+    margin: 20px;
+}
+
+.contact-container p {
+    font-size: 41px;
+    padding-bottom: 20px;
+}
+
+.contact-call {
+    color: rgb(50,50,153);
+}
+
+.contact-wa {
+    color: rgb(153,205,1);
+}
+
+.contact-email {
+    color: rgb(1,113,184);
+}
+
+.brown {
+    color: rgb(153,51,0);
+}

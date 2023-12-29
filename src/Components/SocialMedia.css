@@ -1,0 +1,99 @@
+.social-media-container {
+    width: 40px;
+    position: fixed;
+    right: 0;
+    top: 30%;
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+}
+
+.social{
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all .2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Facebook {
+    border: 2px solid #3c5b99;
+    background-color: white;
+}
+
+.Facebook:hover {
+    background-color: rgb(66,97,156);
+    
+}
+
+.Whatsapp {
+    border: 2px solid rgb(52,175,35);
+    background-color: white;
+}
+.Whatsapp:hover {
+    background-color: rgb(52,175,35);
+    
+}
+.Linkdin {
+    border: 2px solid rgb(0,118,180);
+    background-color: white;
+}
+
+.Linkdin:hover {
+    background-color: rgb(0,118,180);
+
+}
+.Messenger {
+    border: 2px solid rgb(71,139,254);
+    background-color: white;
+}
+
+
+.Messenger:hover {
+    background-color: rgb(71,139,254);
+    
+}
+
+.Email {
+    border: 2px solid rgb(112,113,112);
+    background-color: white;
+}
+
+.Email:hover {
+    background-color: rgb(112,113,112);
+    
+}
+
+.Pinterest {
+    border: 2px solid rgb(201,34,40);
+    background-color: white;
+}
+.Pinterest:hover {
+    background-color: rgb(201,34,40);
+
+}
+
+.social-icons {
+    height: 30px;
+    border-radius: 50px;
+    background-color: white;
+}
+
+.whatsapp-btn {
+    position: fixed;
+
+    bottom: 20px;
+    right: 20px;
+    /* background-color: white; */
+    border-radius: 50%;
+    cursor: pointer;
+
+}
+
+.whatsapp-icon {
+    border-radius: 50%;
+    width: 70px;
+}
