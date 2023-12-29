@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DrawingWebsite/static/css/main.e14d4fa2.chunk.css",
+    "main.js": "/DrawingWebsite/static/js/main.fb9645f7.chunk.js",
+    "main.js.map": "/DrawingWebsite/static/js/main.fb9645f7.chunk.js.map",
+    "runtime-main.js": "/DrawingWebsite/static/js/runtime-main.871675d5.js",
+    "runtime-main.js.map": "/DrawingWebsite/static/js/runtime-main.871675d5.js.map",
+    "static/js/2.053117a9.chunk.js": "/DrawingWebsite/static/js/2.053117a9.chunk.js",
+    "static/js/2.053117a9.chunk.js.map": "/DrawingWebsite/static/js/2.053117a9.chunk.js.map",
+    "index.html": "/DrawingWebsite/index.html",
+    "precache-manifest.5a0a7ecbbc3f5d2a7cf05b8d73d51d67.js": "/DrawingWebsite/precache-manifest.5a0a7ecbbc3f5d2a7cf05b8d73d51d67.js",
+    "service-worker.js": "/DrawingWebsite/service-worker.js",
+    "static/css/main.e14d4fa2.chunk.css.map": "/DrawingWebsite/static/css/main.e14d4fa2.chunk.css.map",
+    "static/js/2.053117a9.chunk.js.LICENSE.txt": "/DrawingWebsite/static/js/2.053117a9.chunk.js.LICENSE.txt",
+    "static/media/img1.jpg": "/DrawingWebsite/static/media/img1.1d0eb6ee.jpg",
+    "static/media/naruto.jpg": "/DrawingWebsite/static/media/naruto.e20ddd37.jpg",
+    "static/media/pinterest.png": "/DrawingWebsite/static/media/pinterest.bc44f80f.png",
+    "static/media/whatsapp.jpeg": "/DrawingWebsite/static/media/whatsapp.450dc3fb.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.871675d5.js",
+    "static/js/2.053117a9.chunk.js",
+    "static/css/main.e14d4fa2.chunk.css",
+    "static/js/main.fb9645f7.chunk.js"
+  ]
+}
