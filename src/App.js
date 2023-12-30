@@ -71,15 +71,15 @@ function App() {
                                         sixth_link="Review"/>
                                 <Routes>
                 
-                                        <Route path="/" element={<Home />}></Route>
-                                        <Route path="/home" element={<Home />}></Route>
-                                        <Route path="/orders" element={<Orders />}></Route>
-                                        <Route path="/gallery" element={<Gallery images={images}/>}></Route>
-                                        <Route path="/aboutUs" element={<AboutUs/>}></Route>
-                                        <Route path="/contactUs" element={<ContactUs />}></Route>
-                                        <Route path="/review" element={<Review />}></Route>
-                                        <Route path="/success" element={<SubmittionSuccess />}></Route>
-                                        <Route path="/review/:id" element={<Review />}></Route>
+                                        <Route path="/pencilmaniaArts/" element={<Home />}></Route>
+                                        <Route path="/pencilmaniaArts/home" element={<Home />}></Route>
+                                        <Route path="/pencilmaniaArts/gallery" element={<Gallery images={images}/>}></Route>
+                                        <Route path="/pencilmaniaArts/orders" element={<Orders />}></Route>
+                                        <Route path="/pencilmaniaArts/aboutUs" element={<AboutUs/>}></Route>
+                                        <Route path="/pencilmaniaArts/contactUs" element={<ContactUs />}></Route>
+                                        <Route path="/pencilmaniaArts/review" element={<Review />}></Route>
+                                        <Route path="/pencilmaniaArts/success" element={<SubmittionSuccess />}></Route>
+                                        <Route path="/pencilmaniaArts/review/:id" element={<Review />}></Route>
                                         <Route path="*" element={<ErrorPage />}></Route>
                                 </Routes>
                         <SocialMedia />

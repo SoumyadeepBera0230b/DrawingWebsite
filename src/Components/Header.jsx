@@ -7,7 +7,7 @@ const Header = (props) => {
   return (
     <div className="main-header">
       <div className="content">
-        <div className="right-content" onClick={()=>navigate("/")}>
+        <div className="right-content" onClick={()=>navigate("/pencilmaniaArts")}>
           <img className="logo-img" src={props.company_logo} alt="logo"></img>
           <div className="logo-info">
             <p className="logo-name">{props.company_name}</p>
@@ -17,25 +17,25 @@ const Header = (props) => {
         <div className="left-content">
           <div
             onClick={() => {
-              navigate("/home");
+              navigate("/pencilmaniaArts/home");
             }}
           >
             {props.first_link}
           </div>
           <div onClick={() => {
-            navigate("/orders")
+            navigate("/pencilmaniaArts/orders")
           }}>{props.second_link}</div>
           <div onClick={()=> { 
-            navigate("/contactUs")
+            navigate("/pencilmaniaArts/contactUs")
           }}>{props.third_link}</div>
           <div onClick={()=> { 
-            navigate("/aboutUs")
+            navigate("/pencilmaniaArts/aboutUs")
           }}>{props.fourth_link}</div>
           <div onClick={()=> { 
-            navigate("/gallery")
+            navigate("/pencilmaniaArts/gallery")
           }}>{props.fifth_link}</div>
           <div onClick={()=> { 
-            navigate("/review")
+            navigate("/pencilmaniaArts/review")
           }}>{props.sixth_link}</div>
         </div>
       </div>
