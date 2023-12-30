@@ -30,25 +30,28 @@ const override: CSSProperties = {
 
 function App() {
         const [images, setImages] = useState([])
-        const accessKey = "https://api.unsplash.com/photos/?client_id=1FDPEFvk4PYOvMirhug-r2Qnko0Bt0MwLP6MAXmFnIk"
 
         const [loading, setLoading] = useState(false)
                 useEffect(
                         () => {
+                        // const fetchAPI = async ()=> {
+                        //         const response = await axios.get(accessKey)
+                        //         const data = await response.data
+                        //         console.log(data)
+                        //         setImages(data)
+                        // }
                         setLoading(true)
                         setTimeout(
-                                // async ()=> {
-                                // const response = await axios.get(accessKey)
-                                // const data = await response.data
-                                // console.log(data[0].urls.full)
-                                // setImages(data)
-                                () => { setLoading(false)
-                        }, 1000
-                        )
-                                
+                                () => {
+                                        
+                                        setLoading(false)
+                                }
+                                        
+                                , 1000)
 
-                        },[]
-                      )
+                                },[]
+                        )
+        
         return (
                 <>
                 {
@@ -73,7 +76,7 @@ function App() {
                 
                                         <Route path="/pencilmaniaArts/" element={<Home />}></Route>
                                         <Route path="/pencilmaniaArts/home" element={<Home />}></Route>
-                                        <Route path="/pencilmaniaArts/gallery" element={<Gallery images={images}/>}></Route>
+                                        <Route path="/pencilmaniaArts/gallery" element={<Gallery />}></Route>
                                         <Route path="/pencilmaniaArts/orders" element={<Orders />}></Route>
                                         <Route path="/pencilmaniaArts/aboutUs" element={<AboutUs/>}></Route>
                                         <Route path="/pencilmaniaArts/contactUs" element={<ContactUs />}></Route>
