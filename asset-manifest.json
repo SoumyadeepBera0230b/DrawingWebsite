@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pencilmaniaArts/static/css/main.78c84f9e.chunk.css",
-    "main.js": "/pencilmaniaArts/static/js/main.35cbc4a4.chunk.js",
-    "main.js.map": "/pencilmaniaArts/static/js/main.35cbc4a4.chunk.js.map",
+    "main.css": "/pencilmaniaArts/static/css/main.a0d1c3f0.chunk.css",
+    "main.js": "/pencilmaniaArts/static/js/main.39d470a7.chunk.js",
+    "main.js.map": "/pencilmaniaArts/static/js/main.39d470a7.chunk.js.map",
     "runtime-main.js": "/pencilmaniaArts/static/js/runtime-main.8cfa728c.js",
     "runtime-main.js.map": "/pencilmaniaArts/static/js/runtime-main.8cfa728c.js.map",
-    "static/js/2.368e0482.chunk.js": "/pencilmaniaArts/static/js/2.368e0482.chunk.js",
-    "static/js/2.368e0482.chunk.js.map": "/pencilmaniaArts/static/js/2.368e0482.chunk.js.map",
+    "static/js/2.b454f4ca.chunk.js": "/pencilmaniaArts/static/js/2.b454f4ca.chunk.js",
+    "static/js/2.b454f4ca.chunk.js.map": "/pencilmaniaArts/static/js/2.b454f4ca.chunk.js.map",
     "index.html": "/pencilmaniaArts/index.html",
-    "precache-manifest.fb26ab616717aa7851d7a0f070df98c0.js": "/pencilmaniaArts/precache-manifest.fb26ab616717aa7851d7a0f070df98c0.js",
+    "precache-manifest.e8cef6a44f57d362ef84cafce47ba306.js": "/pencilmaniaArts/precache-manifest.e8cef6a44f57d362ef84cafce47ba306.js",
     "service-worker.js": "/pencilmaniaArts/service-worker.js",
-    "static/css/main.78c84f9e.chunk.css.map": "/pencilmaniaArts/static/css/main.78c84f9e.chunk.css.map",
-    "static/js/2.368e0482.chunk.js.LICENSE.txt": "/pencilmaniaArts/static/js/2.368e0482.chunk.js.LICENSE.txt",
+    "static/css/main.a0d1c3f0.chunk.css.map": "/pencilmaniaArts/static/css/main.a0d1c3f0.chunk.css.map",
+    "static/js/2.b454f4ca.chunk.js.LICENSE.txt": "/pencilmaniaArts/static/js/2.b454f4ca.chunk.js.LICENSE.txt",
     "static/media/img1.jpg": "/pencilmaniaArts/static/media/img1.1d0eb6ee.jpg",
     "static/media/naruto.jpg": "/pencilmaniaArts/static/media/naruto.e20ddd37.jpg",
     "static/media/pinterest.png": "/pencilmaniaArts/static/media/pinterest.bc44f80f.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8cfa728c.js",
-    "static/js/2.368e0482.chunk.js",
-    "static/css/main.78c84f9e.chunk.css",
-    "static/js/main.35cbc4a4.chunk.js"
+    "static/js/2.b454f4ca.chunk.js",
+    "static/css/main.a0d1c3f0.chunk.css",
+    "static/js/main.39d470a7.chunk.js"
   ]
 }
