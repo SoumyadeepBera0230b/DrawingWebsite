@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/pencilmaniaArts/static/css/main.78c84f9e.chunk.css",
-    "main.js": "/pencilmaniaArts/static/js/main.45e87a3f.chunk.js",
-    "main.js.map": "/pencilmaniaArts/static/js/main.45e87a3f.chunk.js.map",
+    "main.js": "/pencilmaniaArts/static/js/main.45e7883a.chunk.js",
+    "main.js.map": "/pencilmaniaArts/static/js/main.45e7883a.chunk.js.map",
     "runtime-main.js": "/pencilmaniaArts/static/js/runtime-main.8cfa728c.js",
     "runtime-main.js.map": "/pencilmaniaArts/static/js/runtime-main.8cfa728c.js.map",
-    "static/js/2.053117a9.chunk.js": "/pencilmaniaArts/static/js/2.053117a9.chunk.js",
-    "static/js/2.053117a9.chunk.js.map": "/pencilmaniaArts/static/js/2.053117a9.chunk.js.map",
+    "static/js/2.395077f6.chunk.js": "/pencilmaniaArts/static/js/2.395077f6.chunk.js",
+    "static/js/2.395077f6.chunk.js.map": "/pencilmaniaArts/static/js/2.395077f6.chunk.js.map",
     "index.html": "/pencilmaniaArts/index.html",
-    "precache-manifest.8dc3a67a292f973c7136e55fdba5c0d0.js": "/pencilmaniaArts/precache-manifest.8dc3a67a292f973c7136e55fdba5c0d0.js",
+    "precache-manifest.7827bd4c3699d70a8b356d3663b45afd.js": "/pencilmaniaArts/precache-manifest.7827bd4c3699d70a8b356d3663b45afd.js",
     "service-worker.js": "/pencilmaniaArts/service-worker.js",
     "static/css/main.78c84f9e.chunk.css.map": "/pencilmaniaArts/static/css/main.78c84f9e.chunk.css.map",
-    "static/js/2.053117a9.chunk.js.LICENSE.txt": "/pencilmaniaArts/static/js/2.053117a9.chunk.js.LICENSE.txt",
+    "static/js/2.395077f6.chunk.js.LICENSE.txt": "/pencilmaniaArts/static/js/2.395077f6.chunk.js.LICENSE.txt",
     "static/media/img1.jpg": "/pencilmaniaArts/static/media/img1.1d0eb6ee.jpg",
     "static/media/naruto.jpg": "/pencilmaniaArts/static/media/naruto.e20ddd37.jpg",
     "static/media/pinterest.png": "/pencilmaniaArts/static/media/pinterest.bc44f80f.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8cfa728c.js",
-    "static/js/2.053117a9.chunk.js",
+    "static/js/2.395077f6.chunk.js",
     "static/css/main.78c84f9e.chunk.css",
-    "static/js/main.45e87a3f.chunk.js"
+    "static/js/main.45e7883a.chunk.js"
   ]
 }
