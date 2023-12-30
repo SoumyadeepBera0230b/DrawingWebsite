@@ -20,7 +20,7 @@ const Gallery = (props) => {
     <div className='gallery-container'>
       {
         props.images.map(
-          (i) => <Image_display image={i.urls.full}/>
+          (i) => <Image_display image={drawing_img}/>
         )
         
       }
