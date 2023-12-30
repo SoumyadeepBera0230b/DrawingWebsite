@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pencilmaniaArts/precache-manifest.7827bd4c3699d70a8b356d3663b45afd.js"
+  "/pencilmaniaArts/precache-manifest.fb26ab616717aa7851d7a0f070df98c0.js"
 );
 
 self.addEventListener('message', (event) => {
