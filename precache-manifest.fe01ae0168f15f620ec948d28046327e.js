@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a118001f1d34c109e82ed9e9fe302ab",
+    "revision": "b9f252c7df76010a161ca849c42ecf5b",
     "url": "/DrawingWebsite/index.html"
   },
   {
-    "revision": "20fb69224461b7a69091",
-    "url": "/DrawingWebsite/static/css/main.e14d4fa2.chunk.css"
+    "revision": "96bc558171c1373e67a2",
+    "url": "/DrawingWebsite/static/css/main.78c84f9e.chunk.css"
   },
   {
     "revision": "8bc4e4354f9776f7e158",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DrawingWebsite/static/js/2.053117a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "20fb69224461b7a69091",
-    "url": "/DrawingWebsite/static/js/main.fb9645f7.chunk.js"
+    "revision": "96bc558171c1373e67a2",
+    "url": "/DrawingWebsite/static/js/main.45e87a3f.chunk.js"
   },
   {
     "revision": "42b02210c587099c7f4a",
