@@ -37,12 +37,12 @@ function App() {
                         () => {
                         setLoading(true)
                         setTimeout(
-                                async ()=> {
-                                const response = await axios.get(accessKey)
-                                const data = await response.data
-                                console.log(data[0].urls.full)
-                                setImages(data)
-                                setLoading(false)
+                                // async ()=> {
+                                // const response = await axios.get(accessKey)
+                                // const data = await response.data
+                                // console.log(data[0].urls.full)
+                                // setImages(data)
+                                () => { setLoading(false)
                         }, 1000
                         )
                                 

@@ -19,7 +19,7 @@ const Gallery = (props) => {
     
     <div className='gallery-container'>
       {
-        props.images.map(
+        arr.map(
           (i) => <Image_display image={drawing_img}/>
         )
         
